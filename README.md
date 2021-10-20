@@ -10,7 +10,7 @@ Here it is. The conception. The beginning. The start. This repo is an effort to 
 
 Linux 0.00 only did a tiny handful of things: it went into protected mode, started two tasks, and repeated switched between the printing of the strings "AAAA" and "BBBB" over and over.
 
-![Linux 0.00 running in QEMU](linux-000.png "Linux 0.00 running in QEMU)
+![Linux 0.00 running in QEMU](linux-000.png)
 
 **Where Did This Come From?**
 
