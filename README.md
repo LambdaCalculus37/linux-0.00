@@ -28,7 +28,7 @@ There are two folders of interest in this repo:
 
 Yes indeed, I do say! This disk image came from the [Gunkies Computer History Wiki page](https://gunkies.org/wiki/Linux_0.00) for Linux 0.00, and I added it to the repo so anyone can quickly and easily run it in an emulator like QEMU or Bochs.
 
-In order to run this in QEMU, simply invoke the following command from the `disk-image` directory:
+In order to run this in QEMU, simply invoke the following command from the 'disk-image' directory:
 
 `qemu-system-i386 -fda Linux-0.00.vfd`
 
